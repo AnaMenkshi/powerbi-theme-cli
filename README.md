@@ -1,6 +1,7 @@
 # PBI Theme CLI — AI-Powered Power BI Theme Engine
 
 
+
 A command-line AI agent that reads your Power BI `.pbix` files locally and generates production-ready theme JSON files using a large language model. Runs entirely on your machine — no Azure, no Microsoft account, no cloud dependency.
 
 ---
